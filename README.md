@@ -15,7 +15,7 @@ Nuestro sitio está dirigido tanto a minoristas que buscan abastecer su negocio 
 ### [Alan Montenegro]()
 
 
-### [Tomas Lagos]
+### [Tomas Lagos]()
 
 
 
