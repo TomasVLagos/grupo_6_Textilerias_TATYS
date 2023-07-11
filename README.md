@@ -12,10 +12,12 @@ Nuestro sitio está dirigido tanto a minoristas que buscan abastecer su negocio 
 
 ## Integrantes del equipo
 
-### [Alan Montenegro]()
+### [Alan Montenegro](Tengo 23 años y actualmente trabajo para una empresa de soluciones de marketing, 
+me gusta el diseño de indumentaria, andar en skate, ver anime y pasar tiempo en familia.)
 
 
-### [Tomas Lagos]()
+### [Tomas Lagos](Soy Estudiante de desarrollo web y actualmente trabajo para una empresa de publicidad.
+Me gusta el anime y diversos videojuegos, aunque nunca viene mal un partidito de fútbol para relajar el estrés)
 
 
 
