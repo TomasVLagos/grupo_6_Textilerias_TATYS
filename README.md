@@ -21,6 +21,3 @@ Me gusta el anime y diversos videojuegos, aunque nunca viene mal un partidito de
 
 ##[Yami V.]
 
-
-
-
